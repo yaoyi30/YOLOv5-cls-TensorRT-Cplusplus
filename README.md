@@ -1,5 +1,6 @@
 # YOLOv5-cls-TensorRT-Cplusplus
 This is a TensorRT project based on yolov5-cls, using C++
+演示视频：https://www.bilibili.com/video/BV1Th4y1x7b8/?spm_id_from=333.999.0.0&vd_source=4cd5ac8dda02d0b3152cd9b05f7e4006
 ## 1.修改CmakeLists.txt中的cuda和tensorrt路径
 ![1](https://github.com/yaoyi30/YOLOv5-cls-TensorRT-Cplusplus/assets/56180347/58e9756a-6a5c-431f-bd2a-d9f6b1dd3cbf)
 ## 2.修改main.py中的labels,onnx_file和ori_img
